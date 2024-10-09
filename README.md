@@ -1,12 +1,11 @@
 # wizards Project
 
 ## Project setup
-clone the repository using git clone 
+Clone the repository using git clone. Then install the project by using:
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+Finally, use the following command to run the app:
 ```
 npm run serve
 ```
