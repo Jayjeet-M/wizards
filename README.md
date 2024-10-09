@@ -1,7 +1,11 @@
 # wizards Project
 
 ## Project setup
-Clone the repository using git clone. Then install the project by using:
+Clone the repository using 
+```
+git clone https://github.com/Jayjeet-M/wizards.git
+```
+Then install the project by using:
 ```
 npm install
 ```
